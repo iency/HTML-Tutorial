@@ -74,9 +74,9 @@ li {
     padding: 48px 0;
 }
 
-/*
+/* 
 
-ABOUT
+ABOUT 
 
 */
 
@@ -96,7 +96,7 @@ h2 {
     justify-content: center;
 }
 
-.about_img--wrapper {
+.about_img-wrapper {
     width: 40%;
     padding: 0 24px;
 }
@@ -105,18 +105,18 @@ img {
     width: 100%;
 }
 
-.section_description--wrapper {
+.section_description-wrapper {
     width: 60%;
     padding: 0 24px;
 }
 
-.section-description--para {
+.section_description-para {
     font-size: 20px;
     line-height: 1.5;
     margin-bottom: 24px;
 }
 
-/* 
+/*
 
 DISCORD
 
@@ -126,7 +126,7 @@ DISCORD
     background-color: #cefeff;
 }
 
-/* 
+/*
 
 CONTACT
 
@@ -151,7 +151,7 @@ input, textarea {
     padding: 6px 12px;
 }
 
-/* 
+/*
 
 FOOTER
 
@@ -212,11 +212,11 @@ footer {
         flex-direction: column;
     }
 
-    .section_description--wrapper {
+    .section_description-wrapper {
         width: 100%;
     }
 
-    .about_img--wrapper {
+    .about_img-wrapper {
         width: 100%;
     }
 
@@ -228,16 +228,16 @@ footer {
         padding: 48px 24px;
     }
 
-    .footer-logo {
+    .footer_logo {
         max-width: 360px;
     }
 
-    .footer-link {
+    .footer_link {
         padding: 0 4px;
-        font-size: 18px
+        font-size: 18px;
     }
 
-    .footer-links {
+    .footer_links {
         margin-bottom: 24px;
     }
 }
